@@ -6,6 +6,7 @@ plot(y)
 
 z <- x/y
 
-plot(z)
+plot(z, type ="p")
 
 hist(z)
+
