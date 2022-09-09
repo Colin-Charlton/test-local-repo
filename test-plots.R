@@ -1,3 +1,5 @@
+## Plot
+
 x <- rnorm(1000, mean = 0, sd = 1)
 y <- rnorm(1000, mean = 0, sd = 0.5)
 
