@@ -7,3 +7,5 @@ plot(y)
 z <- x/y
 
 plot(z)
+
+hist(z)
